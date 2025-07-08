@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-**PersikPrime/persikprime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hello there.</h1><br>
+<h3 align="center">It's me, PersikPrime.</h3>
+<h3 align="center">And I am junior full-stack developer.</h3><br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
