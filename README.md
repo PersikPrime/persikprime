@@ -5,6 +5,7 @@
 ---
 
 <br>
+
 - 🔭 I’m currently working on **Persik Cloud Solutions** and **Haloterra Network**
 - 🌱 I’m currently learning **Lua** and **NodeJS**
 - 💬 Ask me about **Minecraft Admin things**
