@@ -12,6 +12,7 @@
 - ⚡ Fun fact: **Every 60 second in Africa there is a Minute come by**
 
 <br>
+
 ---
 
 <h3>🧐 My GitHub Stats:</h3><br>
