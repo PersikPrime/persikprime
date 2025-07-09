@@ -2,6 +2,8 @@
 <h3 align="center">It's me, PersikPrime</h3>
 <h3 align="center">And I am junior full-stack developer 😊</h3><br>
 
+---
+
 - 🔭 I’m currently working on **Persik Cloud Solutions** and **Haloterra Network**
 - 🌱 I’m currently learning **Lua** and **NodeJS**
 - 💬 Ask me about **Minecraft Admin things**
@@ -10,6 +12,7 @@
 - ⚡ Fun fact: **Every 60 second in Africa there is a Minute come by**
 
 <br>
+---
 
 <h3>🧐 My GitHub Stats:</h3><br>
 <p align="center">
