@@ -9,10 +9,10 @@
 
 <br>
 
-- 🔭 I’m currently working on **Bixtl Mediaholding** and **Cascable Web Services**
+- 🔭 I’m currently working with **Nyao Projects**
 - 🌱 I’m currently learning **Lua** and **NodeJS**
 - 💬 Ask me about **Minecraft Admin things**
-- 📫 How to reach me: **bixtl.platform@gmail.com**
+- 📫 How to reach me: **thenyaocompany@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Every 60 second in Africa there is a Minute come by**
 
